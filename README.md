@@ -1,7 +1,12 @@
 # Project Name : Dmoney API Testing
 
 ## Project Description:
-##### This API testing project covers the DMoney system, including User Registration & Authentication, Roles & Money Flow, and Customer Transactions. Here users are created by register via self-signup and activated through email confirmation and admin approval. Authentication uses credential login with OTP verification for most roles, while Admin/System uses JWT-based access for secure control. The system manages hierarchical money flow where SYSTEM acts as the central pool, Admin funds SYSTEM, Agents distribute money to Customers with commission, and Customers operate within wallet limits. Customer transactions include cash-out via agents, P2P transfers, and merchant payments with service fees. Overall, the project ensures secure authentication, role-based access control, and accurate transaction, fee, and commission handling across the system.
+##### This API testing project covers the DMoney system, including User Registration & Authentication, Roles & Money Flow, and Customer Transactions. 
+- Here users are created by register via self-signup and activated through email confirmation and admin approval.
+- Authentication uses credential login with OTP verification for most roles, while Admin/System uses JWT-based access for secure control.
+- The system manages hierarchical money flow where SYSTEM acts as the central pool, Admin funds SYSTEM, Agents distribute money to Customers with commission, and Customers operate within wallet limits.
+- Customer transactions include cash-out via agents, P2P transfers, and merchant payments with service fees.
+- Overall, the project ensures secure authentication, role-based access control, and accurate transaction, fee, and commission handling across the system.
 
 #### Technology Used:
 - Node JS
