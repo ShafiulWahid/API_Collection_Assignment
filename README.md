@@ -24,7 +24,7 @@
 ##### Newman Report:
 
 ##### Report Creation Command:
-- `newman run file_location.json --delay-request (how much delay)`
+- `newman run file_name.json --delay-request (how much delay)`
 
 
 
