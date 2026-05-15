@@ -25,6 +25,7 @@
 
 ##### Report Creation Command:
 - `newman run file_name.json --delay-request (how much delay)`
+- `node .\report.js`
 
 
 
